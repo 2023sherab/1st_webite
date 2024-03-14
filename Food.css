@@ -1,0 +1,29 @@
+body{
+    background-image: url(../assets/images/pexels-photo.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+h1{
+    text-align: center;
+}
+span{
+    color: orangered;
+}
+h3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    padding-left: 40px;
+    color: blue;
+    text-decoration: underline;
+}
+p{
+    padding-left: 30px;
+    text-align: justify;
+}

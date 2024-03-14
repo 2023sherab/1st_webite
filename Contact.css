@@ -1,0 +1,23 @@
+body{
+    background-image: url(../assets/images/pexels-photo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+h1{
+    text-align: center;
+}
+span{
+    color: orangered;
+}
+h3{
+    padding-left: 30px;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+p{
+    padding-left: 25px;
+}
